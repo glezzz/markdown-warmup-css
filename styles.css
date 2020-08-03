@@ -3,6 +3,9 @@ body {
     font-family:sans-serif,"verdana";
 }
 
+img{
+    border-radius:8px
+}
 h1{text-align: center}
 
 table, th, td {
